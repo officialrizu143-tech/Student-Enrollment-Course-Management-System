@@ -1,1 +1,1 @@
-# Farm-management-system
+# Student Enrollment & Course Management System
